@@ -1,0 +1,13 @@
+Lister tous les utilisateurs : http://localhost:8000/api/users
+
+Afficher un utilisateur par ID : http://localhost:8000/api/users/id
+
+Créer un nouvel utilisateur : http://localhost:8000/api/users
+
+Mettre à jour un utilisateur existant : http://localhost:8000/api/users/1
+
+Supprimer un utilisateur : http://localhost:8000/api/users/id
+
+Faire la recherche d'un utilisateur : http://localhost:8000/api/users?search= nom
+
+Faire le test de la pagination: http://localhost:8000/api/users?page=1&limit= nombre
